@@ -15,8 +15,8 @@
 #include "thingProperties.h"
 #include <ESP8266WiFi.h>
 
-const char* ssid = "TURKSAT-KABLONET-A9A3-2.4G";         // WiFi ağının SSID'si
-const char* password = "A42eef75"; // WiFi ağının şifresi
+const char* ssid = "ssid";         // WiFi ağının SSID'si
+const char* password = "password"; // WiFi ağının şifresi
 
 #define DHTPIN D1
 #define DHTTYPE DHT11
